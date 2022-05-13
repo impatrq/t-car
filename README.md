@@ -1,4 +1,4 @@
-# t-car
+# T-CAR
 
 ## ¿Que es t-car?
 
@@ -22,7 +22,7 @@ Correo oficial del proyecto: tcar.proyect@gmail.com
 
 ## Ramiro Provvidenza:
 
-    Github:RamiPrvv
+    Github: RamiPrvv
     📷 Instagram: ramiprovvidenza
     📧 Mail: ramiprovvidenza@gmail.com
 
@@ -34,7 +34,7 @@ Correo oficial del proyecto: tcar.proyect@gmail.com
 
 ## Esteban Romero:
 
-    Github:estevo420
+    Github: estevo420
     📷 Instagram: _esteban.romero_
     📧 Mail: esteban.romero014@gmail.com
 
