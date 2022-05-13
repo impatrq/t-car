@@ -1,4 +1,4 @@
-# t-car 
+# t-car
 
 ## ¿Que es t-car?
 
@@ -11,3 +11,9 @@ Al ver los altos números de accidentes de tráfico que hay en argentina como en
 ## ¿Quienes somos?
 
 Somos alumnos de 7mo 1ra avionica de E.E.S.T N7 que, debido a los acrecentados accidentes ocurridos en la via publica y laboral a lo largo de la ultima decada, decidimos pensar, proponer y producir una solucion efectiva a este constante problema.
+
+## Contactanos
+
+Puede contactar con nosotros mediante los siguientes correos electrónicos:
+
+Correo oficial del proyecto: tcar.proyect@gmail.com
