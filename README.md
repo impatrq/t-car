@@ -1,8 +1,8 @@
 # t-car 
 
-## Que es t-car
+## ¿Que es t-car?
 
-T-car es un sistema de anti colisiones, el cual busca ayudar al desplazamiento de objetos de gran tamaño advirtiendo cuando estos estan por colisionar con otra otro objeto o estructura. 
+T-car es un sistema anticolisiones, cuya finalidad es la deteccion, prevencion y documentacion de los accidentes automovilisticos en zonas tanto publicas como laborales. El sistema advierte al conductor en el momento previo a la colision, y en caso de no poder evitarla manualmente se almacenarán los datos de los involucrados en una base de datos segura y accesible por el usuario.
 
 ## ¿Cúal es nuestro objetivo?
 
