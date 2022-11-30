@@ -1,21 +1,21 @@
-https://mail.google.com/mail/u/1?ui=2&ik=ae2fba268a&attid=0.1&permmsgid=msg-f:1750927527645151846&th=184c8b4f40be0266&view=att&disp=safe
-https://mail.google.com/mail/u/1?ui=2&ik=ae2fba268a&attid=0.2&permmsgid=msg-f:1750927527645151846&th=184c8b4f40be0266&view=att&disp=safe
-https://mail.google.com/mail/u/1?ui=2&ik=ae2fba268a&attid=0.3&permmsgid=msg-f:1750927527645151846&th=184c8b4f40be0266&view=att&disp=safe
-https://mail.google.com/mail/u/1?ui=2&ik=ae2fba268a&attid=0.4&permmsgid=msg-f:1750927527645151846&th=184c8b4f40be0266&view=att&disp=safe
-https://mail.google.com/mail/u/1?ui=2&ik=ae2fba268a&attid=0.5&permmsgid=msg-f:1750927527645151846&th=184c8b4f40be0266&view=att&disp=safe
-https://mail.google.com/mail/u/1?ui=2&ik=ae2fba268a&attid=0.6&permmsgid=msg-f:1750927527645151846&th=184c8b4f40be0266&view=att&disp=safe
-https://mail.google.com/mail/u/1?ui=2&ik=ae2fba268a&attid=0.7&permmsgid=msg-f:1750927527645151846&th=184c8b4f40be0266&view=att&disp=safe
-https://mail.google.com/mail/u/1?ui=2&ik=ae2fba268a&attid=0.8&permmsgid=msg-f:1750927527645151846&th=184c8b4f40be0266&view=att&disp=safe
-https://mail.google.com/mail/u/1?ui=2&ik=ae2fba268a&attid=0.9&permmsgid=msg-f:1750927527645151846&th=184c8b4f40be0266&view=att&disp=safe
-https://mail.google.com/mail/u/1?ui=2&ik=ae2fba268a&attid=0.10&permmsgid=msg-f:1750927527645151846&th=184c8b4f40be0266&view=att&disp=safe
-https://mail.google.com/mail/u/1?ui=2&ik=ae2fba268a&attid=0.11&permmsgid=msg-f:1750927527645151846&th=184c8b4f40be0266&view=att&disp=safe
-https://mail.google.com/mail/u/1?ui=2&ik=ae2fba268a&attid=0.12&permmsgid=msg-f:1750927527645151846&th=184c8b4f40be0266&view=att&disp=safe
-https://mail.google.com/mail/u/1?ui=2&ik=ae2fba268a&attid=0.13&permmsgid=msg-f:1750927527645151846&th=184c8b4f40be0266&view=att&disp=safe
-https://mail.google.com/mail/u/1?ui=2&ik=ae2fba268a&attid=0.14&permmsgid=msg-f:1750927527645151846&th=184c8b4f40be0266&view=att&disp=safe
-https://mail.google.com/mail/u/1?ui=2&ik=ae2fba268a&attid=0.15&permmsgid=msg-f:1750927527645151846&th=184c8b4f40be0266&view=att&disp=safe
-https://mail.google.com/mail/u/1?ui=2&ik=ae2fba268a&attid=0.16&permmsgid=msg-f:1750927527645151846&th=184c8b4f40be0266&view=att&disp=safe
-https://mail.google.com/mail/u/1?ui=2&ik=ae2fba268a&attid=0.17&permmsgid=msg-f:1750927527645151846&th=184c8b4f40be0266&view=att&disp=safe
-https://mail.google.com/mail/u/1?ui=2&ik=ae2fba268a&attid=0.18&permmsgid=msg-f:1750927527645151846&th=184c8b4f40be0266&view=att&disp=safe
-https://mail.google.com/mail/u/1?ui=2&ik=ae2fba268a&attid=0.19&permmsgid=msg-f:1750927527645151846&th=184c8b4f40be0266&view=att&disp=safe
-https://mail.google.com/mail/u/1?ui=2&ik=ae2fba268a&attid=0.24&permmsgid=msg-f:1750927527645151846&th=184c8b4f40be0266&view=att&disp=safe
-https://mail.google.com/mail/u/1?ui=2&ik=ae2fba268a&attid=0.25&permmsgid=msg-f:1750927527645151846&th=184c8b4f40be0266&view=att&disp=safe
+![proyecto_ensamblado (2)](https://user-images.githubusercontent.com/101758884/204809123-47c2aa94-0c12-4b69-bc4f-ead0ad6c3e57.jpg)
+![primerlogo (1)](https://user-images.githubusercontent.com/101758884/204809143-40b8344c-e57d-4157-818a-6482a34173cf.jpg)
+![primer_prueba_deteccion2 (1)](https://user-images.githubusercontent.com/101758884/204809228-2e3f3b79-6e2f-409c-9037-0af33fb1fbab.jpg)
+![primer_prueba_deteccion1 (1)](https://user-images.githubusercontent.com/101758884/204809258-f1710a5d-e515-4183-92f1-7e5adea6ecdb.jpg)
+![portapilas (1)](https://user-images.githubusercontent.com/101758884/204809335-12672ae7-38b0-4c7a-97d2-7004c3a2e393.jpg)
+![pila (1)](https://user-images.githubusercontent.com/101758884/204809345-6848bad7-8e40-4e23-8a62-50eb82259d9e.jpg)
+![pedido2 (1)](https://user-images.githubusercontent.com/101758884/204809352-c4ae5089-70d7-459c-9c8e-f3c003357a5a.jpg)
+![Pedido (1)](https://user-images.githubusercontent.com/101758884/204809357-8550690f-8ee1-4ce9-88d3-9d9c4b090308.jpg)
+![pedido2 (1)](https://user-images.githubusercontent.com/101758884/204809403-db996af7-fba4-4927-aceb-8e05ee8222c5.jpg)
+![pantalla2 (1)](https://user-images.githubusercontent.com/101758884/204809430-624ed395-7c57-4fb6-9c05-e789e3c41148.jpg)
+![pantalla1 (1)](https://user-images.githubusercontent.com/101758884/204809473-cbc6fb43-f839-4068-a632-6b5fd30f0037.jpg)
+![modulo_carga (1)](https://user-images.githubusercontent.com/101758884/204809500-24f53013-a3d5-4712-a463-6fb915b66ff5.jpg)
+![micro_sd (1)](https://user-images.githubusercontent.com/101758884/204809509-568279b6-a3e2-49ab-8b93-f919b37a3669.jpg)
+![logo_proyecto](https://user-images.githubusercontent.com/101758884/204809586-38c4d353-950f-4ed4-8e8c-bc63130041f5.jpg)
+![logo_escuela](https://user-images.githubusercontent.com/101758884/204809625-bb503439-c65f-4033-9f25-d3bcd406b407.jpg)
+![codigo1](https://user-images.githubusercontent.com/101758884/204809632-366f4ffa-6929-452b-8b20-7aac57e7f644.jpg)
+![code](https://user-images.githubusercontent.com/101758884/204809641-c3606db8-c945-4ecd-aaa0-8f0fadc6bfa9.png)
+![diagrama](https://user-images.githubusercontent.com/101758884/204809654-91cc3c72-4518-499c-8a9d-61b57067167b.png)
+![deteccion_autos](https://user-images.githubusercontent.com/101758884/204809741-56e7736f-cbab-4dbb-ba98-82b6e427c8b8.jpg)
+![proyecto_ensamblado (1)](https://user-images.githubusercontent.com/101758884/204809798-a7b50bc9-cfad-47fe-96ff-a7a5fbc9dbe0.jpg)
+![primerlogo](https://user-images.githubusercontent.com/101758884/204809830-a0f33c6d-21c9-4800-95b4-30baaee6ac02.jpg)
