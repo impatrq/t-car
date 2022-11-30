@@ -18,4 +18,3 @@
 ![diagrama](https://user-images.githubusercontent.com/101758884/204809654-91cc3c72-4518-499c-8a9d-61b57067167b.png)
 ![deteccion_autos](https://user-images.githubusercontent.com/101758884/204809741-56e7736f-cbab-4dbb-ba98-82b6e427c8b8.jpg)
 ![proyecto_ensamblado (1)](https://user-images.githubusercontent.com/101758884/204809798-a7b50bc9-cfad-47fe-96ff-a7a5fbc9dbe0.jpg)
-![primerlogo](https://user-images.githubusercontent.com/101758884/204809830-a0f33c6d-21c9-4800-95b4-30baaee6ac02.jpg)
