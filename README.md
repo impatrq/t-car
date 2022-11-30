@@ -55,3 +55,5 @@ Correo oficial del proyecto: tcar.proyect@gmail.com
     Github: Aaron-RuizRojo
     📷 Instagram: rectrondo_23
     📧 Mail: aaronruizrojo@live.com
+
+![IMG_1686](https://user-images.githubusercontent.com/101758884/204794524-0598caa9-ff51-4661-b0d6-c692c1c22f73.jpg)
